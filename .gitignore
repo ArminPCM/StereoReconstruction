@@ -1,0 +1,15 @@
+Reconstruction.sdf
+*.suo
+Reconstruction/Debug/cl.command.1.tlog
+*.tlog
+Reconstruction/Debug/Main.obj
+*.dll
+Reconstruction/Debug/Reconstruction.unsuccessfulbuild
+*.idb
+Reconstruction/Debug/vc100.pdb
+Reconstruction/Reconstruction.aps
+*.cache
+Reconstruction/x64/Debug/StereoCamera.obj
+*.pdb
+Reconstruction/x64/Debug/Main.obj
+*.obj
